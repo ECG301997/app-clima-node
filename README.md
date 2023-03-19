@@ -16,8 +16,8 @@
   <li>
     <p>Crea un archivo <code>.env</code> en la raíz del proyecto y agrega las siguientes variables con los valores correspondientes:</p>
     <pre>
-MAPBOX_TOKEN=&lt;token de Mapbox&gt;
-OPENWEATHERMAP_TOKEN=&lt;token de OpenWeatherMap&gt;
+MAPBOX_KEY=&lt;token de Mapbox&gt;
+OPENWEATHER_KEY=&lt;token de OpenWeatherMap&gt;
     </pre>
   </li>
   <li>
